@@ -1,0 +1,2 @@
+# pourya
+how git worked
